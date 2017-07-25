@@ -1,7 +1,7 @@
 # Core features
 
-* Photo Capture
-   * Take a photo
+* Photo Capture 
+   * Take a photo (P: iOS, J: android)
    * Store/Retrieve Photo
    * metadata on photo
    * geolocation
@@ -16,5 +16,8 @@
   * Sharing of photos based on permissions
 
 
-  
+  ## Next Steps
+  * get a compiled app running that can take a photo in both android and iOS
+  * check out geolocation
+  * set up digitalOcean server for collab
  
